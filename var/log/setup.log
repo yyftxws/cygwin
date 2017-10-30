@@ -1,0 +1,348 @@
+2017/08/25 14:32:19 Starting cygwin install, version 2.881
+2017/08/25 14:32:19 User has backup/restore rights
+2017/08/25 14:32:19 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2017/08/25 14:32:19 Current Directory: C:\Users\yangyufeng\Downloads
+2017/08/25 14:32:21 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/08/25 14:32:24 source: network install
+2017/08/25 14:32:26 root: H:\cygwin system
+2017/08/25 14:32:31 Selected local directory: C:\Users\yangyufeng\Downloads
+2017/08/25 14:32:34 net: Direct
+2017/08/25 14:34:59 site: mirrors.opencas.org/
+2017/08/25 14:34:59 mbox note: Unable to get setup from <mirrors.opencas.org/>
+2017/08/25 14:35:01 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2017/08/25 14:35:15 site: http://mirrors.opencas.org/cygwin/
+2017/08/25 14:35:15 site: mirrors.opencas.org/
+2017/08/25 14:35:19 mbox note: Unable to get setup from <mirrors.opencas.org/>
+2017/08/25 14:35:22 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2017/08/25 14:35:33 Adding required dependency bzip2: Selecting version 1.0.6-3 for installation.
+2017/08/25 14:35:33 Adding required dependency ca-certificates: Selecting version 2.14-1 for installation.
+2017/08/25 14:35:33 Adding required dependency groff: Selecting version 1.22.3-1 for installation.
+2017/08/25 14:35:33 Adding required dependency less: Selecting version 487-1 for installation.
+2017/08/25 14:35:33 Adding required dependency libargp: Selecting version 20110921-3 for installation.
+2017/08/25 14:35:33 Adding required dependency libattr1: Selecting version 2.4.46-1 for installation.
+2017/08/25 14:35:33 Adding required dependency libblkid1: Selecting version 2.25.2-2 for installation.
+2017/08/25 14:35:33 Adding required dependency libbz2_1: Selecting version 1.0.6-3 for installation.
+2017/08/25 14:35:33 Adding required dependency libffi6: Selecting version 3.2.1-2 for installation.
+2017/08/25 14:35:33 Adding required dependency libgcc1: Selecting version 5.4.0-1 for installation.
+2017/08/25 14:35:33 Adding required dependency libgdbm4: Selecting version 1.12-1 for installation.
+2017/08/25 14:35:33 Adding required dependency libgmp10: Selecting version 6.1.2-1 for installation.
+2017/08/25 14:35:33 Adding required dependency libiconv: Selecting version 1.14-3 for installation.
+2017/08/25 14:35:33 Adding required dependency libiconv2: Selecting version 1.14-3 for installation.
+2017/08/25 14:35:33 Adding required dependency libintl8: Selecting version 0.19.8.1-2 for installation.
+2017/08/25 14:35:33 Adding required dependency liblzma5: Selecting version 5.2.3-1 for installation.
+2017/08/25 14:35:33 Adding required dependency libmpfr4: Selecting version 3.1.5-1p10 for installation.
+2017/08/25 14:35:33 Adding required dependency libncursesw10: Selecting version 6.0-11.20170617 for installation.
+2017/08/25 14:35:33 Adding required dependency libp11-kit0: Selecting version 0.23.5-1 for installation.
+2017/08/25 14:35:33 Adding required dependency libpcre1: Selecting version 8.40-3 for installation.
+2017/08/25 14:35:33 Adding required dependency libpipeline1: Selecting version 1.4.0-1 for installation.
+2017/08/25 14:35:33 Adding required dependency libpopt-common: Selecting version 1.16-2 for installation.
+2017/08/25 14:35:33 Adding required dependency libpopt0: Selecting version 1.16-2 for installation.
+2017/08/25 14:35:33 Adding required dependency libsigsegv2: Selecting version 2.10-2 for installation.
+2017/08/25 14:35:33 Adding required dependency libsmartcols1: Selecting version 2.25.2-2 for installation.
+2017/08/25 14:35:33 Adding required dependency libssp0: Selecting version 5.4.0-1 for installation.
+2017/08/25 14:35:33 Adding required dependency libstdc++6: Selecting version 5.4.0-1 for installation.
+2017/08/25 14:35:33 Adding required dependency libtasn1_6: Selecting version 4.12-1 for installation.
+2017/08/25 14:35:33 Adding required dependency libuuid1: Selecting version 2.25.2-2 for installation.
+2017/08/25 14:35:33 Adding required dependency p11-kit: Selecting version 0.23.5-1 for installation.
+2017/08/25 14:35:33 Adding required dependency p11-kit-trust: Selecting version 0.23.5-1 for installation.
+2017/08/25 14:35:33 Adding required dependency tzcode: Selecting version 2016j-1 for installation.
+2017/08/25 14:35:33 Adding required dependency xz: Selecting version 5.2.3-1 for installation.
+2017/08/25 14:35:33 Adding required dependency zlib0: Selecting version 1.2.11-1 for installation.
+2017/08/25 14:35:33 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001006-1.tar.xz
+2017/08/25 14:35:33 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2017/08/25 14:35:33 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2017/08/25 14:35:34 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/base-files/base-files-4.2-4.tar.xz
+2017/08/25 14:35:34 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/bash/bash-4.4.12-3.tar.xz
+2017/08/25 14:35:34 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/bzip2/bzip2-1.0.6-3.tar.xz
+2017/08/25 14:35:35 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/ca-certificates/ca-certificates-2.14-1.tar.xz
+2017/08/25 14:35:35 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/coreutils/coreutils-8.26-2.tar.xz
+2017/08/25 14:35:36 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/cygutils/cygutils-1.4.16-2.tar.xz
+2017/08/25 14:35:36 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/cygwin/cygwin-2.8.2-1.tar.xz
+2017/08/25 14:35:36 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/dash/dash-0.5.9.1-1.tar.xz
+2017/08/25 14:35:36 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.5-2.tar.xz
+2017/08/25 14:35:36 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz
+2017/08/25 14:35:37 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/file/file-5.30-1.tar.xz
+2017/08/25 14:35:37 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/findutils/findutils-4.6.0-1.tar.xz
+2017/08/25 14:35:37 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gawk/gawk-4.1.4-3.tar.xz
+2017/08/25 14:35:37 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz
+2017/08/25 14:35:37 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/grep/grep-3.0-2.tar.xz
+2017/08/25 14:35:38 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/groff/groff-1.22.3-1.tar.xz
+2017/08/25 14:35:38 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gzip/gzip-1.8-1.tar.xz
+2017/08/25 14:35:38 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+2017/08/25 14:35:38 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/texinfo/info/info-6.4-1.tar.xz
+2017/08/25 14:35:39 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2
+2017/08/25 14:35:39 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/less/less-487-1.tar.xz
+2017/08/25 14:35:39 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libargp/libargp-20110921-3.tar.xz
+2017/08/25 14:35:39 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2017/08/25 14:35:39 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2017/08/25 14:35:39 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-3.tar.xz
+2017/08/25 14:35:39 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-2.tar.xz
+2017/08/25 14:35:39 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-5.4.0-1.tar.xz
+2017/08/25 14:35:39 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gdbm/libgdbm4/libgdbm4-1.12-1.tar.xz
+2017/08/25 14:35:40 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.1.2-1.tar.xz
+2017/08/25 14:35:40 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libiconv/libiconv-1.14-3.tar.xz
+2017/08/25 14:35:40 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2017/08/25 14:35:40 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz
+2017/08/25 14:35:40 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.3-1.tar.xz
+2017/08/25 14:35:40 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mpfr/libmpfr4/libmpfr4-3.1.5-1p10.tar.xz
+2017/08/25 14:35:40 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-6.0-11.20170617.tar.xz
+2017/08/25 14:35:41 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/openssl/libopenssl100/libopenssl100-1.0.2k-1.tar.xz
+2017/08/25 14:35:41 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.23.5-1.tar.xz
+2017/08/25 14:35:41 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.40-3.tar.xz
+2017/08/25 14:35:41 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2017/08/25 14:35:41 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz
+2017/08/25 14:35:42 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.16-2.tar.xz
+2017/08/25 14:35:42 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz
+2017/08/25 14:35:42 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2017/08/25 14:35:42 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2017/08/25 14:35:42 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gcc/libssp0/libssp0-5.4.0-1.tar.xz
+2017/08/25 14:35:42 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-5.4.0-1.tar.xz
+2017/08/25 14:35:42 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.12-1.tar.xz
+2017/08/25 14:35:42 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2017/08/25 14:35:43 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/login/login-1.11-1.tar.xz
+2017/08/25 14:35:43 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/man-db/man-db-2.7.5-2.tar.xz
+2017/08/25 14:35:43 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mintty/mintty-2.7.9-0.tar.xz
+2017/08/25 14:35:43 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/ncurses/ncurses-6.0-11.20170617.tar.xz
+2017/08/25 14:35:43 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/openssl/openssl-1.0.2k-1.tar.xz
+2017/08/25 14:35:43 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-0.23.5-1.tar.xz
+2017/08/25 14:35:44 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.5-1.tar.xz
+2017/08/25 14:35:44 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/rebase/rebase-4.4.2-1.tar.xz
+2017/08/25 14:35:44 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz
+2017/08/25 14:35:44 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/sed/sed-4.4-1.tar.xz
+2017/08/25 14:35:45 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/tar/tar-1.29-1.tar.xz
+2017/08/25 14:35:45 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-6.0-11.20170617.tar.xz
+2017/08/25 14:35:45 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/tzcode/tzcode-2016j-1.tar.xz
+2017/08/25 14:35:45 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/tzdata/tzdata-2017b-1.tar.xz
+2017/08/25 14:35:46 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/util-linux/util-linux-2.25.2-2.tar.xz
+2017/08/25 14:35:47 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-8.0.0647-1.tar.xz
+2017/08/25 14:35:47 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2
+2017/08/25 14:35:47 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/xz/xz-5.2.3-1.tar.xz
+2017/08/25 14:35:47 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+2017/08/25 14:35:55 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001006-1.tar.xz
+2017/08/25 14:35:55 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2017/08/25 14:35:55 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2017/08/25 14:35:55 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/base-files/base-files-4.2-4.tar.xz
+2017/08/25 14:35:56 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/bash/bash-4.4.12-3.tar.xz
+2017/08/25 14:35:56 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/bzip2/bzip2-1.0.6-3.tar.xz
+2017/08/25 14:35:56 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/ca-certificates/ca-certificates-2.14-1.tar.xz
+2017/08/25 14:35:57 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/coreutils/coreutils-8.26-2.tar.xz
+2017/08/25 14:36:01 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/cygutils/cygutils-1.4.16-2.tar.xz
+2017/08/25 14:36:01 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/cygwin/cygwin-2.8.2-1.tar.xz
+2017/08/25 14:36:02 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/dash/dash-0.5.9.1-1.tar.xz
+2017/08/25 14:36:02 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.5-2.tar.xz
+2017/08/25 14:36:03 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz
+2017/08/25 14:36:03 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/file/file-5.30-1.tar.xz
+2017/08/25 14:36:04 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/findutils/findutils-4.6.0-1.tar.xz
+2017/08/25 14:36:05 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gawk/gawk-4.1.4-3.tar.xz
+2017/08/25 14:36:06 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz
+2017/08/25 14:36:06 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/grep/grep-3.0-2.tar.xz
+2017/08/25 14:36:07 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/groff/groff-1.22.3-1.tar.xz
+2017/08/25 14:36:12 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gzip/gzip-1.8-1.tar.xz
+2017/08/25 14:36:12 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+2017/08/25 14:36:13 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/texinfo/info/info-6.4-1.tar.xz
+2017/08/25 14:36:13 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2
+2017/08/25 14:36:13 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/less/less-487-1.tar.xz
+2017/08/25 14:36:13 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libargp/libargp-20110921-3.tar.xz
+2017/08/25 14:36:13 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2017/08/25 14:36:13 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2017/08/25 14:36:13 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-3.tar.xz
+2017/08/25 14:36:13 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-2.tar.xz
+2017/08/25 14:36:13 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-5.4.0-1.tar.xz
+2017/08/25 14:36:14 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gdbm/libgdbm4/libgdbm4-1.12-1.tar.xz
+2017/08/25 14:36:14 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.1.2-1.tar.xz
+2017/08/25 14:36:14 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libiconv/libiconv-1.14-3.tar.xz
+2017/08/25 14:36:14 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2017/08/25 14:36:14 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz
+2017/08/25 14:36:15 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.3-1.tar.xz
+2017/08/25 14:36:15 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mpfr/libmpfr4/libmpfr4-3.1.5-1p10.tar.xz
+2017/08/25 14:36:15 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-6.0-11.20170617.tar.xz
+2017/08/25 14:36:15 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/openssl/libopenssl100/libopenssl100-1.0.2k-1.tar.xz
+2017/08/25 14:36:15 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.23.5-1.tar.xz
+2017/08/25 14:36:15 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.40-3.tar.xz
+2017/08/25 14:36:15 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2017/08/25 14:36:15 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz
+2017/08/25 14:36:16 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.16-2.tar.xz
+2017/08/25 14:36:16 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz
+2017/08/25 14:36:16 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2017/08/25 14:36:16 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2017/08/25 14:36:16 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gcc/libssp0/libssp0-5.4.0-1.tar.xz
+2017/08/25 14:36:16 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-5.4.0-1.tar.xz
+2017/08/25 14:36:16 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.12-1.tar.xz
+2017/08/25 14:36:16 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2017/08/25 14:36:16 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/login/login-1.11-1.tar.xz
+2017/08/25 14:36:16 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/man-db/man-db-2.7.5-2.tar.xz
+2017/08/25 14:36:18 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mintty/mintty-2.7.9-0.tar.xz
+2017/08/25 14:36:18 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/ncurses/ncurses-6.0-11.20170617.tar.xz
+2017/08/25 14:36:19 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/openssl/openssl-1.0.2k-1.tar.xz
+2017/08/25 14:36:20 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-0.23.5-1.tar.xz
+2017/08/25 14:36:20 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.5-1.tar.xz
+2017/08/25 14:36:20 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/rebase/rebase-4.4.2-1.tar.xz
+2017/08/25 14:36:20 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz
+2017/08/25 14:36:20 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/sed/sed-4.4-1.tar.xz
+2017/08/25 14:36:21 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/tar/tar-1.29-1.tar.xz
+2017/08/25 14:36:22 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-6.0-11.20170617.tar.xz
+2017/08/25 14:36:23 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/tzcode/tzcode-2016j-1.tar.xz
+2017/08/25 14:36:23 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/tzdata/tzdata-2017b-1.tar.xz
+2017/08/25 14:36:37 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/util-linux/util-linux-2.25.2-2.tar.xz
+2017/08/25 14:36:38 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-8.0.0647-1.tar.xz
+2017/08/25 14:36:39 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2
+2017/08/25 14:36:40 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/xz/xz-5.2.3-1.tar.xz
+2017/08/25 14:36:41 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+2017/08/25 14:36:41 Changing gid back to original
+2017/08/25 14:36:41 running: H:\cygwin\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/08/25 14:37:48 running: H:\cygwin\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/08/25 14:37:55 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2017/08/25 14:37:57 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2017/08/25 14:37:58 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/bash.sh"
+2017/08/25 14:38:00 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+2017/08/25 14:38:03 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+2017/08/25 14:38:11 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2017/08/25 14:38:17 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2017/08/25 14:38:18 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/mintty.sh"
+2017/08/25 14:38:18 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_man-db.sh"
+2017/08/25 14:38:19 Changing gid to Administrators
+2017/08/25 14:38:24 note: Installation Complete
+2017/08/25 14:38:24 Ending cygwin install
+2017/08/25 14:45:30 Starting cygwin install, version 2.881
+2017/08/25 14:45:30 User has backup/restore rights
+2017/08/25 14:45:30 Current Directory: C:\Users\yangyufeng\Downloads
+2017/08/25 14:45:32 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/08/25 14:45:35 source: network install
+2017/08/25 14:45:37 root: H:\cygwin system
+2017/08/25 14:45:38 Selected local directory: C:\Users\yangyufeng\Downloads
+2017/08/25 14:45:39 net: Direct
+2017/08/25 14:45:44 site: http://mirrors.opencas.org/cygwin/
+2017/08/25 14:45:44 site: mirrors.opencas.org/
+2017/08/25 14:45:48 mbox note: Unable to get setup from <mirrors.opencas.org/>
+2017/08/25 14:46:48 Adding required dependency libgnutls28: Selecting version 3.3.27-1 for installation.
+2017/08/25 14:46:48 Adding required dependency libgnutls30: Selecting version 3.5.13-1 for installation.
+2017/08/25 14:46:48 Adding required dependency libhogweed2: Selecting version 2.7.1-1 for installation.
+2017/08/25 14:46:48 Adding required dependency libhogweed4: Selecting version 3.3-1 for installation.
+2017/08/25 14:46:48 Adding required dependency libidn2_0: Selecting version 2.0.2-1 for installation.
+2017/08/25 14:46:48 Adding required dependency libnettle4: Selecting version 2.7.1-1 for installation.
+2017/08/25 14:46:48 Adding required dependency libnettle6: Selecting version 3.3-1 for installation.
+2017/08/25 14:46:48 Adding required dependency libpsl5: Selecting version 0.17.0-1 for installation.
+2017/08/25 14:46:48 Adding required dependency libunistring2: Selecting version 0.9.6-1 for installation.
+2017/08/25 14:46:48 Adding required dependency publicsuffix-list-dafsa: Selecting version 20170424-1 for installation.
+2017/08/25 14:46:49 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gnutls/libgnutls28/libgnutls28-3.3.27-1.tar.xz
+2017/08/25 14:46:49 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gnutls/libgnutls30/libgnutls30-3.5.13-1.tar.xz
+2017/08/25 14:46:49 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/nettle/libhogweed2/libhogweed2-2.7.1-1.tar.xz
+2017/08/25 14:46:49 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/nettle/libhogweed4/libhogweed4-3.3-1.tar.xz
+2017/08/25 14:46:49 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libidn2/libidn2_0/libidn2_0-2.0.2-1.tar.xz
+2017/08/25 14:46:49 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/nettle/libnettle4/libnettle4-2.7.1-1.tar.xz
+2017/08/25 14:46:50 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/nettle/libnettle6/libnettle6-3.3-1.tar.xz
+2017/08/25 14:46:50 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libpsl/libpsl5/libpsl5-0.17.0-1.tar.xz
+2017/08/25 14:46:50 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libunistring/libunistring2/libunistring2-0.9.6-1.tar.xz
+2017/08/25 14:46:50 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/publicsuffix-list/publicsuffix-list-dafsa/publicsuffix-list-dafsa-20170424-1.tar.xz
+2017/08/25 14:46:52 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/wget/wget-1.19.1-2.tar.xz
+2017/08/25 14:47:07 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gnutls/libgnutls28/libgnutls28-3.3.27-1.tar.xz
+2017/08/25 14:47:07 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gnutls/libgnutls30/libgnutls30-3.5.13-1.tar.xz
+2017/08/25 14:47:07 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/nettle/libhogweed2/libhogweed2-2.7.1-1.tar.xz
+2017/08/25 14:47:07 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/nettle/libhogweed4/libhogweed4-3.3-1.tar.xz
+2017/08/25 14:47:07 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libidn2/libidn2_0/libidn2_0-2.0.2-1.tar.xz
+2017/08/25 14:47:07 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/nettle/libnettle4/libnettle4-2.7.1-1.tar.xz
+2017/08/25 14:47:07 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/nettle/libnettle6/libnettle6-3.3-1.tar.xz
+2017/08/25 14:47:07 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libpsl/libpsl5/libpsl5-0.17.0-1.tar.xz
+2017/08/25 14:47:07 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libunistring/libunistring2/libunistring2-0.9.6-1.tar.xz
+2017/08/25 14:47:08 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/publicsuffix-list/publicsuffix-list-dafsa/publicsuffix-list-dafsa-20170424-1.tar.xz
+2017/08/25 14:47:08 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/wget/wget-1.19.1-2.tar.xz
+2017/08/25 14:47:09 Changing gid back to original
+2017/08/25 14:47:09 running: H:\cygwin\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/08/25 14:47:40 running: H:\cygwin\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/08/25 14:47:48 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/wget.sh"
+2017/08/25 14:47:48 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_man-db.sh"
+2017/08/25 14:47:48 Changing gid to Administrators
+2017/08/25 14:48:16 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/preremove/wget.sh"
+2017/08/25 14:48:17 Uninstalling libgnutls28
+2017/08/25 14:48:17 Uninstalling libgnutls30
+2017/08/25 14:48:17 Uninstalling libhogweed2
+2017/08/25 14:48:17 Uninstalling libhogweed4
+2017/08/25 14:48:17 Uninstalling libidn2_0
+2017/08/25 14:48:17 Uninstalling libnettle4
+2017/08/25 14:48:17 Uninstalling libnettle6
+2017/08/25 14:48:17 Uninstalling libpsl5
+2017/08/25 14:48:17 Uninstalling libunistring2
+2017/08/25 14:48:17 Uninstalling publicsuffix-list-dafsa
+2017/08/25 14:48:17 Uninstalling wget
+2017/08/25 14:48:17 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gnutls/libgnutls28/libgnutls28-3.3.27-1.tar.xz
+2017/08/25 14:48:17 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/gnutls/libgnutls30/libgnutls30-3.5.13-1.tar.xz
+2017/08/25 14:48:17 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/nettle/libhogweed2/libhogweed2-2.7.1-1.tar.xz
+2017/08/25 14:48:17 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/nettle/libhogweed4/libhogweed4-3.3-1.tar.xz
+2017/08/25 14:48:17 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libidn2/libidn2_0/libidn2_0-2.0.2-1.tar.xz
+2017/08/25 14:48:17 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/nettle/libnettle4/libnettle4-2.7.1-1.tar.xz
+2017/08/25 14:48:17 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/nettle/libnettle6/libnettle6-3.3-1.tar.xz
+2017/08/25 14:48:17 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libpsl/libpsl5/libpsl5-0.17.0-1.tar.xz
+2017/08/25 14:48:17 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/libunistring/libunistring2/libunistring2-0.9.6-1.tar.xz
+2017/08/25 14:48:17 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/publicsuffix-list/publicsuffix-list-dafsa/publicsuffix-list-dafsa-20170424-1.tar.xz
+2017/08/25 14:48:17 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/wget/wget-1.19.1-2.tar.xz
+2017/08/25 14:48:17 Changing gid back to original
+2017/08/25 14:48:17 running: H:\cygwin\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/08/25 14:48:47 running: H:\cygwin\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/08/25 14:48:51 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/wget.sh"
+2017/08/25 14:48:51 can't run /etc/postinstall/wget.sh: No such file
+2017/08/25 14:48:51 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_man-db.sh"
+2017/08/25 14:48:52 Changing gid to Administrators
+2017/08/25 14:48:57 note: Installation Complete
+2017/08/25 14:48:57 Ending cygwin install
+2017/08/25 14:50:22 Starting cygwin install, version 2.881
+2017/08/25 14:50:22 User has backup/restore rights
+2017/08/25 14:50:22 Current Directory: C:\Users\yangyufeng\Downloads
+2017/08/25 14:50:24 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/08/25 14:50:30 source: network install
+2017/08/25 14:50:31 root: H:\cygwin system
+2017/08/25 14:50:31 Selected local directory: C:\Users\yangyufeng\Downloads
+2017/08/25 14:50:32 net: Direct
+2017/08/25 14:50:34 site: http://mirrors.opencas.org/cygwin/
+2017/08/25 14:50:34 site: mirrors.opencas.org/
+2017/08/25 14:50:38 mbox note: Unable to get setup from <mirrors.opencas.org/>
+2017/08/25 14:52:56 Adding required dependency libisl13: Selecting version 0.14.1-1 for installation.
+2017/08/25 14:52:56 Adding required dependency libmpc3: Selecting version 1.0.3-1 for installation.
+2017/08/25 14:52:56 Adding required dependency mingw64-i686-binutils: Selecting version 2.25.0.1.23f238d-1 for installation.
+2017/08/25 14:52:56 Adding required dependency mingw64-i686-headers: Selecting version 5.0.2-1 for installation.
+2017/08/25 14:52:56 Adding required dependency mingw64-i686-runtime: Selecting version 5.0.2-1 for installation.
+2017/08/25 14:52:56 Adding required dependency mingw64-i686-windows-default-manifest: Selecting version 6.4-1 for installation.
+2017/08/25 14:52:56 Adding required dependency mingw64-i686-winpthreads: Selecting version 5.0.2-1 for installation.
+2017/08/25 14:52:56 Adding required dependency mingw64-x86_64-binutils: Selecting version 2.25.0.1.23f238d-1 for installation.
+2017/08/25 14:52:56 Adding required dependency mingw64-x86_64-headers: Selecting version 5.0.2-1 for installation.
+2017/08/25 14:52:56 Adding required dependency mingw64-x86_64-runtime: Selecting version 5.0.2-1 for installation.
+2017/08/25 14:52:56 Adding required dependency mingw64-x86_64-windows-default-manifest: Selecting version 6.4-1 for installation.
+2017/08/25 14:52:56 Adding required dependency mingw64-x86_64-winpthreads: Selecting version 5.0.2-1 for installation.
+2017/08/25 14:52:57 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/isl/libisl13/libisl13-0.14.1-1.tar.xz
+2017/08/25 14:52:57 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mpclib/libmpc3/libmpc3-1.0.3-1.tar.xz
+2017/08/25 14:53:01 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mingw64-i686-binutils/mingw64-i686-binutils-2.25.0.1.23f238d-1.tar.xz
+2017/08/25 14:53:28 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mingw64-i686-gcc/mingw64-i686-gcc-core/mingw64-i686-gcc-core-6.3.0-1.tar.xz
+2017/08/25 14:53:43 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mingw64-i686-gcc/mingw64-i686-gcc-g++/mingw64-i686-gcc-g++-6.3.0-1.tar.xz
+2017/08/25 14:53:51 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-i686-headers/mingw64-i686-headers-5.0.2-1.tar.xz
+2017/08/25 14:53:52 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-i686-runtime/mingw64-i686-runtime-5.0.2-1.tar.xz
+2017/08/25 14:53:52 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-i686-windows-default-manifest/mingw64-i686-windows-default-manifest-6.4-1.tar.xz
+2017/08/25 14:53:52 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-i686-winpthreads/mingw64-i686-winpthreads-5.0.2-1.tar.xz
+2017/08/25 14:53:54 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mingw64-x86_64-binutils/mingw64-x86_64-binutils-2.25.0.1.23f238d-1.tar.xz
+2017/08/25 14:54:14 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mingw64-x86_64-gcc/mingw64-x86_64-gcc-core/mingw64-x86_64-gcc-core-6.3.0-1.tar.xz
+2017/08/25 14:54:24 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mingw64-x86_64-gcc/mingw64-x86_64-gcc-g++/mingw64-x86_64-gcc-g++-6.3.0-1.tar.xz
+2017/08/25 14:54:32 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-x86_64-headers/mingw64-x86_64-headers-5.0.2-1.tar.xz
+2017/08/25 14:54:35 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-x86_64-runtime/mingw64-x86_64-runtime-5.0.2-1.tar.xz
+2017/08/25 14:54:35 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-x86_64-windows-default-manifest/mingw64-x86_64-windows-default-manifest-6.4-1.tar.xz
+2017/08/25 14:54:35 Downloaded C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-x86_64-winpthreads/mingw64-x86_64-winpthreads-5.0.2-1.tar.xz
+2017/08/25 14:54:48 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/isl/libisl13/libisl13-0.14.1-1.tar.xz
+2017/08/25 14:54:48 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mpclib/libmpc3/libmpc3-1.0.3-1.tar.xz
+2017/08/25 14:54:48 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mingw64-i686-binutils/mingw64-i686-binutils-2.25.0.1.23f238d-1.tar.xz
+2017/08/25 14:54:50 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mingw64-i686-gcc/mingw64-i686-gcc-core/mingw64-i686-gcc-core-6.3.0-1.tar.xz
+2017/08/25 14:54:54 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mingw64-i686-gcc/mingw64-i686-gcc-g++/mingw64-i686-gcc-g++-6.3.0-1.tar.xz
+2017/08/25 14:55:06 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-i686-headers/mingw64-i686-headers-5.0.2-1.tar.xz
+2017/08/25 14:55:24 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-i686-runtime/mingw64-i686-runtime-5.0.2-1.tar.xz
+2017/08/25 14:55:29 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-i686-windows-default-manifest/mingw64-i686-windows-default-manifest-6.4-1.tar.xz
+2017/08/25 14:55:29 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-i686-winpthreads/mingw64-i686-winpthreads-5.0.2-1.tar.xz
+2017/08/25 14:55:30 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mingw64-x86_64-binutils/mingw64-x86_64-binutils-2.25.0.1.23f238d-1.tar.xz
+2017/08/25 14:55:32 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mingw64-x86_64-gcc/mingw64-x86_64-gcc-core/mingw64-x86_64-gcc-core-6.3.0-1.tar.xz
+2017/08/25 14:55:36 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/x86_64/release/mingw64-x86_64-gcc/mingw64-x86_64-gcc-g++/mingw64-x86_64-gcc-g++-6.3.0-1.tar.xz
+2017/08/25 14:55:48 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-x86_64-headers/mingw64-x86_64-headers-5.0.2-1.tar.xz
+2017/08/25 14:56:01 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-x86_64-runtime/mingw64-x86_64-runtime-5.0.2-1.tar.xz
+2017/08/25 14:56:13 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-x86_64-windows-default-manifest/mingw64-x86_64-windows-default-manifest-6.4-1.tar.xz
+2017/08/25 14:56:13 Extracting from file://C:\Users\yangyufeng\Downloads/http%3a%2f%2fmirrors.opencas.org%2fcygwin%2f/noarch/release/mingw64-x86_64-winpthreads/mingw64-x86_64-winpthreads-5.0.2-1.tar.xz
+2017/08/25 14:56:14 Changing gid back to original
+2017/08/25 14:56:14 running: H:\cygwin\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/08/25 14:56:56 running: H:\cygwin\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/08/25 14:56:59 running: H:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_man-db.sh"
+2017/08/25 14:56:59 Changing gid to Administrators
+2017/08/25 14:57:25 note: Installation Complete
+2017/08/25 14:57:25 Ending cygwin install
